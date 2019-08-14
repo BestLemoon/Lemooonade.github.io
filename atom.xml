@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lemooonade.github.io</id>
     <title>Lemoonade</title>
-    <updated>2019-08-14T01:36:10.627Z</updated>
+    <updated>2019-08-14T01:47:55.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lemooonade.github.io"/>
     <link rel="self" href="https://lemooonade.github.io/atom.xml"/>
@@ -11,12 +11,25 @@
     <icon>https://lemooonade.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Lemoonade</rights>
     <entry>
-        <title type="html"><![CDATA[1]]></title>
-        <id>https://lemooonade.github.io/post/1</id>
-        <link href="https://lemooonade.github.io/post/1">
+        <title type="html"><![CDATA[给大家分享一些图片编辑网站]]></title>
+        <id>https://lemooonade.github.io/post/gei-da-jia-fen-xiang-yi-xie-tu-pian-bian-ji-wang-zhan</id>
+        <link href="https://lemooonade.github.io/post/gei-da-jia-fen-xiang-yi-xie-tu-pian-bian-ji-wang-zhan">
         </link>
-        <updated>2019-08-14T01:36:05.000Z</updated>
-        <content type="html"><![CDATA[<p>1</p>
+        <updated>2019-08-14T01:39:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>平时可以在线编辑图片，无需繁琐的Photoshop操作</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>平时可以在线编辑图片，无需繁琐的Photoshop操作</p>
+<!--more-->
+<p>稿定设计：https://www.gaoding.com/</p>
+<p>这个网站真的是神一般的存在，可以在线用模板做海报，重点是模板都是免费的<br>
+还有智能抠图工具，可以瞬间抠完图，免去用钢笔抠图的繁琐。</p>
+<p>TinyPNG：https://tinypng.com/</p>
+<p>免费的在线图片压缩工具，压缩率高，无损画质，直接拖拽使用，很方便。</p>
+<p>picdiet：https://www.picdiet.com/zh-cn</p>
+<p>独特且强悍的JavaScript 算法，能极速压缩 80% 的图片大小，而不损害其质量。</p>
+<p>SmartResize：</p>
+<p>https://www.smartresize.com/zh-cn</p>
+<p>这个工具基于 javascript+HTML5 编写而成的，是一个批量裁剪缩放图片的神器！</p>
 ]]></content>
     </entry>
     <entry>
