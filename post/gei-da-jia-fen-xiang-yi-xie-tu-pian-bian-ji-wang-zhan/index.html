@@ -7,7 +7,7 @@
 <title>
     给大家分享一些图片编辑网站 | Lemoonade
 </title>
-<link rel="shortcut icon" href="https://lemooonade.github.io/favicon.ico?v=1565787485355">
+<link rel="shortcut icon" href="https://lemooonade.github.io/favicon.ico?v=1565788335953">
 <!-- <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous"> -->
 <link href="https://cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
@@ -32,6 +32,13 @@
     </script>
     
         
+            
+                <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+                <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+                
+
+                    
+                            
 </head>
 
 <body>
@@ -40,7 +47,7 @@
     <div class="nav">
         <div class="logo">
             <a href="https://lemooonade.github.io">
-                <img class="avatar" src="https://lemooonade.github.io/images/avatar.png?v=1565787485355" alt="">
+                <img class="avatar" src="https://lemooonade.github.io/images/avatar.png?v=1565788335953" alt="">
             </a>
             <div class="site-title">
                 <h1>
@@ -150,7 +157,7 @@
                                 <!-- id-card -->
                                 
     <div class="id_card i-card">
-        <div class="id_card-avatar" style="background-image: url(https://lemooonade.github.io/images/avatar.png?v=1565787485355)">
+        <div class="id_card-avatar" style="background-image: url(https://lemooonade.github.io/images/avatar.png?v=1565788335953)">
         </div>
         <h1 class="id_card-title">
             Lemoonade
@@ -186,7 +193,7 @@
 
 
             <div class="site-footer">
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
+  Powered by <a" target="_blank">Lemoonade</a> | 
   <a class="rss" href="https://lemooonade.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
@@ -203,6 +210,26 @@
         });
     </script>
     
+        
+            <script>
+    window.onload = function() {
+        var gitalk = new Gitalk({
+            clientID: '061e88d0fad6f625d6fd',
+            clientSecret: '23909a1d5485c1fadf06cb50b2aeed817541c6aa',
+            repo: 'Lemooonade.github.io',
+            owner: 'Lemooonade',
+            admin: ['Lemooonade'],
+            id: (location.pathname).substring(0, 49), // Ensure uniqueness and length less than 50
+            distractionFreeMode: false // Facebook-like distraction free mode
+        })
+
+        gitalk.render('gitalk-container')
+    }
+</script>
+                
+
+                    
+                                
 </body>
 
 </html>
