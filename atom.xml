@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lemooonade.github.io</id>
     <title>Lemoonade</title>
-    <updated>2019-08-14T01:35:56.287Z</updated>
+    <updated>2019-08-14T01:36:10.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lemooonade.github.io"/>
     <link rel="self" href="https://lemooonade.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://lemooonade.github.io/images/avatar.png</logo>
     <icon>https://lemooonade.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Lemoonade</rights>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://lemooonade.github.io/post/1</id>
+        <link href="https://lemooonade.github.io/post/1">
+        </link>
+        <updated>2019-08-14T01:36:05.000Z</updated>
+        <content type="html"><![CDATA[<p>1</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NetEase Could Music List]]></title>
         <id>https://lemooonade.github.io/post/netease-could-music-list</id>
