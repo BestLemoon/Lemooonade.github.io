@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lemooonade.github.io</id>
     <title>Lemoonade</title>
-    <updated>2019-08-14T13:18:05.723Z</updated>
+    <updated>2019-10-27T13:00:55.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lemooonade.github.io"/>
     <link rel="self" href="https://lemooonade.github.io/atom.xml"/>
@@ -10,29 +10,6 @@
     <logo>https://lemooonade.github.io/images/avatar.png</logo>
     <icon>https://lemooonade.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Lemoonade</rights>
-    <entry>
-        <title type="html"><![CDATA[About Lil Ghost]]></title>
-        <id>https://lemooonade.github.io/post/about-lil-ghost</id>
-        <link href="https://lemooonade.github.io/post/about-lil-ghost">
-        </link>
-        <updated>2019-08-14T11:52:27.000Z</updated>
-        <summary type="html"><![CDATA[<p>夸夸我家鬼哥</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>夸夸我家鬼哥</p>
-<!--more-->
-<p>日渐被鬼哥圈粉的我，纪念一下您。<br>
-从您的达芬奇开始（应该是）渐渐关注到您，后来才知道原来您也是<strong>NINEPERCENT</strong>的一员，只是我起初并没有注意到您。<br>
-后来才知道您那么宠粉，当然是要夸夸您呀<br>
-特别是727那天您的个人演唱会，地表温度接近40 degree centigrade的郑州，当几乎所有人都以为您在好好休息的时候，您却是<img src="https://lemooonade.github.io/post-images/1565785936568.jpg" alt=""><br>
-这样的。<br>
-为了我们的1kw福利您真是太拼了，说实话我还是第一次遇到您这么宠粉的爱豆啊，再加上您的达芬奇，自然是被圈到。<br>
-小吉常说，wlk他值得。<br>
-是的，虽然您经常被某然所拖累，但你还是要好好走下去呀，上天是不会辜负好孩子的。</p>
-<p>好好努力<br>
-好好长大<br>
-爸爸爱你💙</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[给大家分享一些图片编辑网站]]></title>
         <id>https://lemooonade.github.io/post/gei-da-jia-fen-xiang-yi-xie-tu-pian-bian-ji-wang-zhan</id>
@@ -56,21 +33,18 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[NetEase Could Music List]]></title>
-        <id>https://lemooonade.github.io/post/netease-could-music-list</id>
-        <link href="https://lemooonade.github.io/post/netease-could-music-list">
+        <title type="html"><![CDATA[About ME]]></title>
+        <id>https://lemooonade.github.io/post/about</id>
+        <link href="https://lemooonade.github.io/post/about">
         </link>
-        <updated>2019-08-14T01:27:29.000Z</updated>
-        <summary type="html"><![CDATA[<p>先祭出自己的歌单吧</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>先祭出自己的歌单吧</p>
-<!--more-->
-<p>虽然真的真的很乱基本除了我无感的类型都有<br>
-emmmmmm<br>
-类型基本随时间而变化呀不过都是我zqsg喜欢过的<br>
-也可以康康我收藏的歌单啊虽然有点多但是质量还是不错的<br>
-下面贴上链接：<br>
-https://music.163.com/#/my/m/music/playlist?id=2935969369</p>
+        <updated>2019-01-25T11:09:48.000Z</updated>
+        <content type="html"><![CDATA[<p>这里是一只雄心壮志要拿下ACM的苦逼计科学生<br>
+Emmmmmmm<br>
+平时会分享一些好的文章（心血来潮自己也会写）<br>
+当然这里也是我的资源储藏站啊<br>
+各种冷门好资源不分享怎么知道呢<br>
+网站还在搭建中~<br>
+啾咪~</p>
 ]]></content>
     </entry>
 </feed>
