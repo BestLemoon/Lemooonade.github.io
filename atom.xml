@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lemooonade.github.io</id>
     <title>Lemoonade</title>
-    <updated>2019-10-27T13:00:55.815Z</updated>
+    <updated>2019-10-27T14:32:19.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lemooonade.github.io"/>
     <link rel="self" href="https://lemooonade.github.io/atom.xml"/>
@@ -38,8 +38,8 @@
         <link href="https://lemooonade.github.io/post/about">
         </link>
         <updated>2019-01-25T11:09:48.000Z</updated>
-        <content type="html"><![CDATA[<p>这里是一只雄心壮志要拿下ACM的苦逼计科学生<br>
-Emmmmmmm<br>
+        <content type="html"><![CDATA[<p>这里是一只苦逼计科学生<br>
+Emmmmm<br>
 平时会分享一些好的文章（心血来潮自己也会写）<br>
 当然这里也是我的资源储藏站啊<br>
 各种冷门好资源不分享怎么知道呢<br>
