@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lemooonade.github.io</id>
     <title>ITCA</title>
-    <updated>2019-10-30T13:46:45.610Z</updated>
+    <updated>2019-10-31T12:28:49.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lemooonade.github.io"/>
     <link rel="self" href="https://lemooonade.github.io/atom.xml"/>
@@ -50,18 +50,6 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[墙内上Google Play]]></title>
-        <id>https://lemooonade.github.io/post/qiang-nei-shang-google-play</id>
-        <link href="https://lemooonade.github.io/post/qiang-nei-shang-google-play">
-        </link>
-        <updated>2019-10-29T14:11:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>apkdl.in</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>apkdl.in</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[隔离运行软件]]></title>
         <id>https://lemooonade.github.io/post/ge-chi-yun-xing-ruan-jian</id>
         <link href="https://lemooonade.github.io/post/ge-chi-yun-xing-ruan-jian">
@@ -71,18 +59,9 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>SandBox</p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[无版权音乐下载工具]]></title>
-        <id>https://lemooonade.github.io/post/wu-ban-quan-yin-le-xia-zai-gong-ju</id>
-        <link href="https://lemooonade.github.io/post/wu-ban-quan-yin-le-xia-zai-gong-ju">
-        </link>
-        <updated>2019-10-29T14:07:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>鱼声音乐</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>鱼声音乐</p>
-<!-- more -->
+<p>能够在电脑硬盘上隔离出一个空间来运行软件，可以做到不污染电脑硬盘空间，可以用来测试和隔离病毒。<br>
+<img src="https://lemooonade.github.io/post-images/1572524412540.jpg" alt=""><br>
+蓝奏云链接：https://www.lanzous.com/i73lesd</p>
 ]]></content>
     </entry>
     <entry>
@@ -125,6 +104,9 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>https://mp.weixin.qq.com/s/zeq1sTmaPsKt7Bsok0Ldrg</p>
 <!-- more -->
+<p>欢迎关注软件安装管家公众号（此处无广告）<br>
+<img src="https://lemooonade.github.io/post-images/1572524846321.png" alt=""><br>
+各类软件安装和教学视频</p>
 ]]></content>
     </entry>
     <entry>
@@ -137,7 +119,9 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>Office Tool Plus</p>
 <!-- more -->
-<p>Microsoft Office的管理工具，部署卸载一体化</p>
+<p>Microsoft Office的管理工具，部署卸载一体化<br>
+<img src="https://lemooonade.github.io/post-images/1572524187159.png" alt=""><br>
+蓝奏云链接：https://www.lanzous.com/i72wtmh</p>
 ]]></content>
     </entry>
     <entry>
@@ -153,6 +137,36 @@
 <p>强大方便轻量的卸载工具，卸载无残留。<br>
 <img src="https://lemooonade.github.io/post-images/1572433753519.png" alt=""><br>
 蓝奏云链接：https://www.lanzous.com/i72aati</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[轻量搜索工具]]></title>
+        <id>https://lemooonade.github.io/post/qing-liang-sou-suo-gong-ju</id>
+        <link href="https://lemooonade.github.io/post/qing-liang-sou-suo-gong-ju">
+        </link>
+        <updated>2019-10-29T13:55:02.000Z</updated>
+        <summary type="html"><![CDATA[<p>Everything</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Everything</p>
+<!-- more -->
+<p>强大的文件搜索工具，真正秒搜索。<br>
+<img src="https://lemooonade.github.io/post-images/1572433625858.png" alt=""><br>
+蓝奏云链接：https://www.lanzous.com/i72aash</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[流量网速监控悬浮窗]]></title>
+        <id>https://lemooonade.github.io/post/liu-liang-wang-su-jian-kong-xuan-fu-chuang</id>
+        <link href="https://lemooonade.github.io/post/liu-liang-wang-su-jian-kong-xuan-fu-chuang">
+        </link>
+        <updated>2019-10-29T13:54:26.000Z</updated>
+        <summary type="html"><![CDATA[<p>Traffic Monitor</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>Traffic Monitor</p>
+<!-- more -->
+<p>高颜值的悬浮工具，可以换肤。<br>
+<img src="https://lemooonade.github.io/post-images/1572434164083.png" alt=""><br>
+蓝奏云链接：https://www.lanzous.com/i72abhc</p>
 ]]></content>
     </entry>
 </feed>
